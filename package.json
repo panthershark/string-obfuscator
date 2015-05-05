@@ -10,5 +10,5 @@
     "mixdown-app": "^3.0.4"
   },
   "devDependencies": {},
-  "description": "Plugin to encode and decode a string"
+  "description": "Encodes and Decodes (encrypts and decrypts) strings.  Supports random length encoded values."
 }
