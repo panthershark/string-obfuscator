@@ -1,0 +1,14 @@
+{
+  "name": "string-obfuscator",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec -u tdd test/*.js"
+  },
+  "dependencies": {
+    "lodash": "^3.8.0",
+    "mixdown-app": "^3.0.4"
+  },
+  "devDependencies": {},
+  "description": "Plugin to encode and decode a string"
+}
